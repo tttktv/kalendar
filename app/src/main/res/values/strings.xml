@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kalendarfinal</string>
+    <string name="june">june</string>
+    <string name="may">may</string>
+    <string name="april">april</string>
+    <string name="march">march</string>
+    <string name="february">february</string>
+    <string name="january">january</string>
+    <string name="august">august</string>
+    <string name="october">october</string>
+    <string name="july">july</string>
+    <string name="september">september</string>
+    <string name="december">december</string>
+    <string name="november">november</string>
+    <string name="textvieww">textvieww</string>
+    <string name="textview">textview</string>
+    <string name="text">text</string>
+    <string name="add">add</string>
+</resources>
